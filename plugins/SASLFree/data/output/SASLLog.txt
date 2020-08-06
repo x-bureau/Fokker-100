@@ -3,177 +3,261 @@
 [FIRSTPOPUP INFO]: Loading module...
 [FIRSTPOPUP INFO]: [LUA]: loading	module
 [FIRSTPOPUP INFO]: [LUA]: loading	electrical
-[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/battery1> already exists
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/buttons/acX_Tie_pb1> already exists
 [FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
-[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:13 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:48 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
+[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:9 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
+[FIRSTPOPUP WARN]: [STACK]:| ...
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/generator_1> already exists
+[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:7 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
 [FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
 [FIRSTPOPUP WARN]: [STACK]:| ...
-[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/battery1_charging> already exists
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/generator_2> already exists
 [FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
-[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:14 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:8 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
 [FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
 [FIRSTPOPUP WARN]: [STACK]:| ...
-[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/battery2> already exists
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/gpu_on> already exists
 [FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
-[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:15 in function <f>
-[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
-[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
-[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
-[FIRSTPOPUP WARN]: [STACK]:| ...
-[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/battery2_charging> already exists
-[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
-[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:16 in function <f>
-[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
-[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
-[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
-[FIRSTPOPUP WARN]: [STACK]:| ...
-[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/apu> already exists
-[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
-[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:19 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:10 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
 [FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
 [FIRSTPOPUP WARN]: [STACK]:| ...
 [FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/apu_gen> already exists
 [FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
-[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:20 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:11 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
 [FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
 [FIRSTPOPUP WARN]: [STACK]:| ...
-[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/gpu> already exists
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/gpu_is_aval> already exists
 [FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
-[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:24 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:13 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
 [FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
 [FIRSTPOPUP WARN]: [STACK]:| ...
-[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/gpu_gen> already exists
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/gpu_pwr> already exists
 [FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
-[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:25 in function <f>
-[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
-[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
-[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
-[FIRSTPOPUP WARN]: [STACK]:| ...
-[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/external/gpu_connected> already exists
-[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
-[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:26 in function <f>
-[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
-[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
-[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
-[FIRSTPOPUP WARN]: [STACK]:| ...
-[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/eng1_gen> already exists
-[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
-[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:29 in function <f>
-[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
-[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
-[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
-[FIRSTPOPUP WARN]: [STACK]:| ...
-[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/gen2_gen> already exists
-[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
-[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:30 in function <f>
-[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
-[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
-[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
-[FIRSTPOPUP WARN]: [STACK]:| ...
-[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/batt1ChargCtrl> already exists
-[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
-[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:33 in function <f>
-[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
-[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
-[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
-[FIRSTPOPUP WARN]: [STACK]:| ...
-[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/batt2ChargCtrl> already exists
-[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
-[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:34 in function <f>
-[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
-[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
-[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
-[FIRSTPOPUP WARN]: [STACK]:| ...
-[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/dcBus1> already exists
-[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
-[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:37 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:14 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
 [FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
 [FIRSTPOPUP WARN]: [STACK]:| ...
 [FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/acBus1> already exists
 [FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
-[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:38 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:16 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
 [FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
 [FIRSTPOPUP WARN]: [STACK]:| ...
-[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/asBus2> already exists
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/acBus2> already exists
 [FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
-[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:39 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:17 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
 [FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
 [FIRSTPOPUP WARN]: [STACK]:| ...
-[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/essAcBus> already exists
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/acEssBus> already exists
 [FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
-[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:40 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:18 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
+[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
+[FIRSTPOPUP WARN]: [STACK]:| ...
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/acEmerBus> already exists
+[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:19 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
+[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
+[FIRSTPOPUP WARN]: [STACK]:| ...
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/acGndSerBus> already exists
+[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:20 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
 [FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
 [FIRSTPOPUP WARN]: [STACK]:| ...
 [FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/tru1> already exists
 [FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:22 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
+[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
+[FIRSTPOPUP WARN]: [STACK]:| ...
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/tru2> already exists
+[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:23 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
+[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
+[FIRSTPOPUP WARN]: [STACK]:| ...
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/truEss> already exists
+[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:24 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
+[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
+[FIRSTPOPUP WARN]: [STACK]:| ...
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/truEmer> already exists
+[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:25 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
+[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
+[FIRSTPOPUP WARN]: [STACK]:| ...
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/truGndSer> already exists
+[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:26 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
+[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
+[FIRSTPOPUP WARN]: [STACK]:| ...
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/dcBus1> already exists
+[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:28 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
+[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
+[FIRSTPOPUP WARN]: [STACK]:| ...
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/dcBus2> already exists
+[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:29 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
+[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
+[FIRSTPOPUP WARN]: [STACK]:| ...
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/dcEssBus> already exists
+[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:30 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
+[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
+[FIRSTPOPUP WARN]: [STACK]:| ...
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/dcEmerBus> already exists
+[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:31 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
+[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
+[FIRSTPOPUP WARN]: [STACK]:| ...
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/dcGndSerBus> already exists
+[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:32 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
+[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
+[FIRSTPOPUP WARN]: [STACK]:| ...
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/dualDCBus> already exists
+[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:33 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
+[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
+[FIRSTPOPUP WARN]: [STACK]:| ...
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/dcb1_dbc2_x_tie> already exists
+[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:35 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
+[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
+[FIRSTPOPUP WARN]: [STACK]:| ...
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/battery_1> already exists
+[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:37 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
+[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
+[FIRSTPOPUP WARN]: [STACK]:| ...
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/battery_2> already exists
+[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:38 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
+[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
+[FIRSTPOPUP WARN]: [STACK]:| ...
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/buttons/battery_switch> already exists
+[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:40 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
+[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
+[FIRSTPOPUP WARN]: [STACK]:| ...
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/buttons/gpu_pb> already exists
+[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:41 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
+[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
+[FIRSTPOPUP WARN]: [STACK]:| ...
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/buttons/ess_emer_pwr_only> already exists
+[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:42 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
+[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
+[FIRSTPOPUP WARN]: [STACK]:| ...
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/buttons/gen1_pb> already exists
+[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
 [FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:43 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
 [FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
 [FIRSTPOPUP WARN]: [STACK]:| ...
-[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/esstru> already exists
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/buttons/gen2_pb> already exists
 [FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
 [FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:44 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
 [FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
 [FIRSTPOPUP WARN]: [STACK]:| ...
-[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/battery1_voltage> already exists
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/buttons/apu_gen_pb> already exists
+[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:45 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
+[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
+[FIRSTPOPUP WARN]: [STACK]:| ...
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/buttons/dcX_Tie_pb> already exists
+[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
+[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:46 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
+[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
+[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
+[FIRSTPOPUP WARN]: [STACK]:| ...
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/buttons/acX_Tie_pb1> already exists
 [FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
 [FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:47 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
 [FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
 [FIRSTPOPUP WARN]: [STACK]:| ...
-[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/battery2_voltage> already exists
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/buttons/acX_Tie_pb1> already exists
 [FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
 [FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:48 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
 [FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
 [FIRSTPOPUP WARN]: [STACK]:| ...
-[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/dcBus1Voltage> already exists
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/buttons/tru1_pb> already exists
 [FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
 [FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:49 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
 [FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
 [FIRSTPOPUP WARN]: [STACK]:| ...
-[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/acBus1Voltage> already exists
+[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/buttons/tru2_pb> already exists
 [FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
 [FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:50 in function <f>
-[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
-[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
-[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
-[FIRSTPOPUP WARN]: [STACK]:| ...
-[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/acBus2Voltage> already exists
-[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
-[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:51 in function <f>
-[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
-[FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
-[FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>
-[FIRSTPOPUP WARN]: [STACK]:| ...
-[FIRSTPOPUP WARN]: [STACK]:| createDataRef : DataRefsHandler::luaCreateDataRef: <fokker/electrical/essAcBusVoltage> already exists
-[FIRSTPOPUP WARN]: [STACK]:| ...opy - Copy/plugins/SASLFree/data/init/initProperties.lua:295 in function <createGlobalPropertyi>
-[FIRSTPOPUP WARN]: [STACK]:| ...ugins/SASLFree/data/modules/Custom Module/electrical.lua:53 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <electrical>
 [FIRSTPOPUP WARN]: [STACK]:| ...aft - Copy - Copy/plugins/SASLFree/data/modules/main.lua:18 in function <f>
 [FIRSTPOPUP WARN]: [STACK]:| ...ft - Copy - Copy/plugins/SASLFree/data/init/initMain.lua:220 in function <c>

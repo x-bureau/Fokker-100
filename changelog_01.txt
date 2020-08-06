@@ -1,0 +1,23 @@
+Generators now supply the AC system
+
+Battery switch now turns on both batteries
+
+If the batteries are on, the emergency bus gets powered
+
+Once the emergency bus is powered, the DC Essential Bus is powered
+
+DC Cross Tie now works. It is automatically set, but using a push button can be selected to off
+
+Dual DC Bus is now functional (provides power for lift dumpers, anti-skid, and speed brakes in the event of a DC Bus 1 or DC Bus 2 failure during landing)
+
+GCU is now simulated, so when the generator push buttons are powered (including the APU one), the generators are set to on
+
+GPCU is now simulates, so when the GPU is aval, and the push button is set to the correct position, the AC Ground Service Bus will be powered
+
+The system automatically powers the AC Emergency Bus if the AC Essential Bus is powered
+
+The system automatically powers the TRU if the correct AC Bus is powered. For TRU 1 and TRU 2, the push buttons are required to be on (they are set to be automatically)
+
+The system automatically powers the DC Busses if the correct TRU is powered
+
+
