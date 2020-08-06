@@ -171,7 +171,7 @@ function update()
             bus1OnBat = true -- Set on bat to true, since bus 1 is getting power from battery 1
             bus1OnTRU = false
         elseif get(battery1) == 0 then -- But the battery bus ISN'T powered
-            set(dcBus, 0) -- Not supplying power to the DC bus
+            set(dcBus1, 0) -- Not supplying power to the DC bus
             set(battery1Charging, 0) -- Not charging battery 1
             set(battery2Charging, 0) -- Not charging battery 2
             bus1OnBat = false -- DC Bus 1 is NOT on battery power
