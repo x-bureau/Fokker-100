@@ -10,7 +10,7 @@ components = {
 }
 
 local popup = contextWindow {
-	name = "Battery Panel",
+	name = "Electrical System",
 	position = {50, 50, 390, 296},
 	noResize = true,
 	visible = true,
